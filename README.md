@@ -9,3 +9,6 @@ This interactive visualisation was done using D3.js, a javascript library for pr
 ## Functionality
 * Slider that changes the visualisation according to the selected year
 * Hovering over a country gives the contry name and value for that country.
+
+
+Despite the fact that sub-Saharan Africa contains only about 11 percent of the Earth’s population, the region is the world’s epicenter of HIV/AIDS. Adult HIV prevalence is 1.2 percent worldwide (0.6 percent in North America), but it is 9.0 percent in sub-Saharan Africa
